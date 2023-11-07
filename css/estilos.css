@@ -1,0 +1,160 @@
+html, body{
+    font-size: 20px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    margin: 0;
+    padding-bottom: 0;
+}
+
+footer{
+    padding: 5% 0;
+    margin-top: 9%;
+    text-align: center;
+    background-color: #7b7b7b;
+    color: #ffffff;
+    width: 100%;
+}
+
+h1{
+    margin: 5%;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2{
+    margin-left: 20%;
+    margin-top: 80px;
+    font-size: 40px;
+}
+
+h3{
+    margin-left: 20%;
+    margin-top: 45px;
+}
+
+header img{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.links1{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 15%;
+    margin-top: 2%;
+}
+
+.links1 li{
+    padding: 7px;
+    border-bottom: 3px solid #6a6a6a;
+    margin-top: 30px;
+}
+
+.links1 li a{
+    text-decoration: none;
+    color: #000000;
+}
+
+p{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    
+}
+
+.bibliografia li{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.bibliografia li a{
+    color: cornflowerblue;
+}
+
+.lista1{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.oledVSamoled{
+    border-radius: 35px;
+    border: black solid 4px;
+    width: 36%;
+    margin-left: 32%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.flexibilidad{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.flexibilidad img{
+    margin-left: 25%;
+    width: 17%;
+}
+
+.ajustar{
+    display: flex;
+    flex-direction: column;
+    margin-right: 15%;
+}
+
+.adaptabilidad{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 70px;
+}
+
+.adaptabilidad img{
+    margin-right: 20%;
+    width: 25%;
+}
+
+.ajustar1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15%;
+}
+
+.resistencia{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.resistencia img{
+    margin-left: 23%;
+    width: 25%;
+}
+
+.ajustar2{
+    display: flex;
+    flex-direction: column;
+    margin-right: 13%;
+}
+
+.ordenacion{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.ordenacion img{
+    width: 35%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
